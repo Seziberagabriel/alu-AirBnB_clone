@@ -129,5 +129,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 ## Authors :black_nib:
-* **Oreste Abizera** <[oreste-abizera](https://github.com/oreste-abizera)> <o.abizera@alustudent.com>
-* **Innocente Niwemwana** <[innocente0](https://github.com/innocente0)> <i.niwemwana@alustudent.com>
+* **Sezibera Gabriel** <[seziberagabriel](https://github.com/seziberagabriel)> <g.tuyisingi@alustudent.com>
+
